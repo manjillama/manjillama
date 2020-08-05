@@ -10,6 +10,9 @@
 <a href="https://discord.com/channels/@me/269502649001443329">
   <img align="left" alt="Manjil's Discord" title="@MJL#1862" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/discord-round.svg" />
 </a>
+<a href="#">
+    <img align="left" alt="Manjil's Medium Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/medium.svg" />
+  </a>
 </div>
 
 <br/>
