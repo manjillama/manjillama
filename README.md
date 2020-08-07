@@ -11,6 +11,12 @@
     <img align="left" alt="Manjil's Medium Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/medium.svg" />
   </a>
 </div>
+<a href="https://twitter.com/lamamanjil">
+    <img align="left" alt="Twitter Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/twitter.svg" />
+  </a>
+</div>
+
+
 
 <br/>
 
