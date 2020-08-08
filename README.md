@@ -1,6 +1,9 @@
-### Hey there! I'm [Manjil](https://manjiltamang.com) 👋🏽👨🏽‍💻
 
 <div>
+  
+  <a href="https://manjiltamang.com">
+    <img align="left" alt="Manjil's Website" width="26px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/global.svg" />
+  </a>
 <a href="http://linkedin.com/in/manjiltamang/">
   <img align="left" alt="Manjil's Linked In" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/linkedin.svg" />
 </a>
@@ -14,6 +17,7 @@
 <a href="https://twitter.com/lamamanjil">
     <img align="left" alt="Twitter Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/twitter.svg" />
   </a>
+  
 </div>
 
 
