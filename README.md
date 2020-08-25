@@ -7,7 +7,7 @@
 <a href="http://linkedin.com/in/manjiltamang/">
   <img align="left" alt="Manjil's Linked In" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/vJdDpH">
+<a href="https://discord.gg/jqFsW4a">
   <img align="left" alt="Manjil's Discord" title="@MJL#1862" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/discord-round.svg" />
 </a>
 <a href="https://medium.com/@lamamanjil">
