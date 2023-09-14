@@ -4,10 +4,10 @@
   <a href="https://manjiltamang.com">
     <img align="left" alt="Manjil's Website" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/earth.svg" />
   </a>
-<a href="http://linkedin.com/in/manjiltamang/">
+<a href="https://linkedin.com/in/manjiltamang/">
   <img align="left" alt="Manjil's Linked In" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/jqFsW4a">
+<a href="https://discordapp.com/users/269502649001443329">
   <img align="left" alt="Manjil's Discord" title="@MJL#1862" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/discord-round.svg" />
 </a>
 <a href="https://medium.com/@lamamanjil">
