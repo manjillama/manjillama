@@ -4,9 +4,6 @@
   <a href="https://manjiltamang.com">
     <img align="left" alt="Manjil's Website" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/earth.svg" />
   </a>
-<a href="https://linkedin.com/in/manjiltamang/">
-  <img align="left" alt="Manjil's Linked In" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/linkedin.svg" />
-</a>
 <a href="https://discordapp.com/users/269502649001443329">
   <img align="left" alt="Manjil's Discord" title="@MJL#1862" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/discord-round.svg" />
 </a>
@@ -14,10 +11,6 @@
     <img align="left" alt="Manjil's Medium Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/medium.svg" />
   </a>
 </div>
-<a href="https://twitter.com/lamamanjil">
-    <img align="left" alt="Twitter Account" width="28px" src="https://raw.githubusercontent.com/manjillama/manjillama/master/assets/twitter.svg" />
-  </a>
-  
 </div>
 
 
